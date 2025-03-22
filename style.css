@@ -6,6 +6,7 @@ html {
 body{
     height: 100vh;
     background: url(531309ee73be52a900ca1455dbbeef59.jpg);
+background-size:cover;
 }
 .container-navbar{
     background-color : transparent;
